@@ -1,2 +1,2 @@
 # Project-Analisis-sentimen
-repositori untuk project mandiri membuat analisis sentimen
+repositori untuk project analisis sentimen
